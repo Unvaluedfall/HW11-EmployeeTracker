@@ -1,0 +1,25 @@
+{
+  "name": "hw11-employeetracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unvaluedfall/HW11-EmployeeTracker.git"
+  },
+  "author": "Jordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unvaluedfall/HW11-EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/Unvaluedfall/HW11-EmployeeTracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "start": "^5.1.0"
+  }
+}
